@@ -32,7 +32,7 @@ Founder in progress  where I design and develop **intelligent, secure, and scala
 
 ### 📫 How to reach me  
 - **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/nicole-wafula-1345952b1)  
-- **GitHub:** [github.com/yourusername](https://github.com/Nicklancecypher)  
+- **GitHub:** [github.com/Nicklancecypher](https://github.com/Nicklancecypher)  
 - **Email:** [simiyunicole946@gmail.com](mailto:simiyunicole946@gmail.com)  
 
 ### ⚡ Fun fact  
