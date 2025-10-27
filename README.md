@@ -12,8 +12,7 @@ Founder in progress  where I design and develop **intelligent, secure, and scala
 - **Cybersecurity-enhanced full-stack projects** using modern architectures  
 
 ### 🌱 I’m currently learning  
-- Advanced machine learning integrations  
-- Cloud security architecture  
+- Advanced machine learning integrations   
 - Scalable API and microservice design
 - Advanced **AI model training & optimization**  
 - **DevSecOps** and scalable **cloud system architecture**  
