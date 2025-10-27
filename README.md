@@ -37,7 +37,7 @@ Founder in progress  where I design and develop **intelligent, secure, and scala
 
 ### ⚡ Fun fact  
 I believe creativity and logic aren’t opposites,they’re allies. 
-My best ideas often start with a sketch, a line of code, and a little chaos that turns into innovation.  
+My best ideas often start with a sketch,a line of code,and a little chaos that turns into innovation.  
 💡 Innovation is intelligence having fun, especially when it changes lives. 
 
 ## 🧠 Tech Stack
