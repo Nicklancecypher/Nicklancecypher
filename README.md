@@ -4,9 +4,13 @@ I’m **Nicole** a creative **technopreneur** passionate about building at the i
 Founder in progress  where I design and develop **intelligent, secure, and scalable systems** that help African businesses grow smarter in the digital age.  
 
 > *"Building intelligent, secure, and scalable systems for Africa’s digital future.
-> <img src="https://img.shields.io/badge/AI-0A0A0A?style=for-the-badge&logo=apachespark" />
+
+ 
+
+<img src="https://img.shields.io/badge/AI-0A0A0A?style=for-the-badge&logo=apachespark" />
 <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=datadog" />
 <img src="https://img.shields.io/badge/Cloud-0A0A0A?style=for-the-badge&logo=icloud" />
+
 "*  
 
 ### 🔭 I’m currently working on  
