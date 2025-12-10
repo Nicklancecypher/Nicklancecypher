@@ -41,6 +41,8 @@ Building intelligent,secure,and scalable systems for Africa’s digital future.
 - **LinkedIn:** [www.linkedin.com/in/nicole-simiyu-1345952b1](www.linkedin.com/in/nicole-wafula-1345952b1)  
 - **GitHub:** [github.com/Nicklancecypher](https://github.com/Nicklancecypher)  
 - **Email:** [simiyunicole946@gmail.com](mailto:simiyunicole946@gmail.com)
+
+ 
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-wafula-1345952b1)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simiyunicole946@gmail.com)
