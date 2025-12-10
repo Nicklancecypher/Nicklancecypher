@@ -1,4 +1,4 @@
-## Hi there 👋  
+## 👋 Hi, I’m Nicole — Technopreneur & AI Systems Architect  
 
 I’m **Nicole** a creative **technopreneur** passionate about building at the intersection of **AI, cybersecurity, and full-stack innovation**.  
 Founder in progress  where I design and develop **intelligent, secure, and scalable systems** that help African businesses grow smarter in the digital age.  
@@ -33,17 +33,31 @@ Founder in progress  where I design and develop **intelligent, secure, and scala
 ### 📫 How to reach me  
 - **LinkedIn:** [www.linkedin.com/in/nicole-simiyu-1345952b1](www.linkedin.com/in/nicole-wafula-1345952b1)  
 - **GitHub:** [github.com/Nicklancecypher](https://github.com/Nicklancecypher)  
-- **Email:** [simiyunicole946@gmail.com](mailto:simiyunicole946@gmail.com)  
+- **Email:** [simiyunicole946@gmail.com](mailto:simiyunicole946@gmail.com)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-wafula-1345952b1)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simiyunicole946@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicklancecypher) 
 
 ### ⚡ Fun fact  
 
-My best ideas often start with a sketch,
+My best ideas start as sketches that accidentally turn into deployments.
 
 
 ## 🧠 Tech Stack
-**Languages & Tools:**  
-`Python` • `JavaScript` • `Flask` • `React` • `Node.js` • `TailwindCSS` • `MySQL` • `supabase`  
 
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-000?style=for-the-badge&logo=raspberrypi)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-000?style=for-the-badge&logo=opencv)
+
+---
 ## 🚀 Featured Projects
 
 ### 🔹 AI & Automation  
@@ -54,9 +68,11 @@ My best ideas often start with a sketch,
   Remote health monitoring with AI detection and Flask dashboard.  
 
 
-### 🔹 Full-Stack Development  
-- **[taskflow-app](https://github.com/Nicklancecypher/taskflow)**  
-  Task management web app built with React and Node.js.  
+### 🔹 Full-Stack Development 
+**taskflow-app** 
+- **[taskflow-app](https://github.com/Nicklancecypher/taskflow)**
+- React + Node.js productivity manager. 
+  
 
 
 
