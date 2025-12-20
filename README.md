@@ -1,6 +1,8 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /> </div>
 <div align="center">✨ Nicole — Technopreneur & AI Systems Architect ✨</div>
 
+</div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=2800&pause=1200&color=FFD700&center=true&vCenter=true&width=800&height=70&lines=Building+Africa's+Next+Generation+AI+Systems;Cybersecurity+%7C+Automation+%7C+Cloud+%7C+Full+Stack;Technopreneur+%7C+AI+Systems+Architect+%7C+Secure+Innovation" /> </div> 
+
 I’m **Nicole** a creative **technopreneur** passionate about building at the intersection of **AI, cybersecurity, and full-stack innovation**.  
 Founder in progress  where I design and develop **intelligent, secure, and scalable systems** that help African businesses grow and operate smarter, safer and faster in the digital age.  
 
