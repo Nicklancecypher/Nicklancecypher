@@ -13,32 +13,32 @@ Building intelligent,secure,and scalable systems for Africa’s digital future.
 </div> 
 
 
-### 🔭 I’m currently working on  
+###  I’m currently working on  
 - AI-powered dashboards and smart automation tools for business analytics  
 - Secure backend systems integrating machine learning and real-time data visualization  
 - **AI-driven monitoring systems** with real-time alerts and smart dashboards  
 - **Cybersecurity-enhanced full-stack projects** using modern architectures  
 
-### 🌱 I’m currently learning  
+###  I’m currently learning  
 - Advanced machine learning integrations   
 - Scalable API and microservice design
 - Advanced **AI model training & optimization**  
 - **DevSecOps** and scalable **cloud system architecture**  
  
-### 👯 I’m looking to collaborate on  
+###  I’m looking to collaborate on  
 - Open-source **AI and automation** projects  
 - **Cybersecurity frameworks** for small enterprises  
 - Full-stack systems that combine intelligence, performance, and design
  
-🧠 Artificial Intelligence | 🔐 Cybersecurity | 💻 Automation | ☁️ Cloud Computing | 🌍 Real-world Innovation  
+ Artificial Intelligence |  Cybersecurity |  Automation |  Real-world Innovation  
 
-### 💬 Ask me about  
+###  Ask me about  
 - AI systems design & deployment  
 - Web automation and data visualization    
 - Startup tech strategy and system scalability
 
 
-### 📫 How to reach me  
+### How to reach me  
 - **LinkedIn:** [www.linkedin.com/in/nicole-simiyu-1345952b1](www.linkedin.com/in/nicole-wafula-1345952b1)  
 - **GitHub:** [github.com/Nicklancecypher](https://github.com/Nicklancecypher)  
 - **Email:** [simiyunicole946@gmail.com](mailto:simiyunicole946@gmail.com)
@@ -49,12 +49,12 @@ Building intelligent,secure,and scalable systems for Africa’s digital future.
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simiyunicole946@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicklancecypher) 
 
-### ⚡ Fun fact  
+### Fun fact  
 
 My best ideas start as sketches that accidentally turn into deployments.
 
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -64,7 +64,6 @@ My best ideas start as sketches that accidentally turn into deployments.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-000?style=for-the-badge&logo=raspberrypi)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-000?style=for-the-badge&logo=opencv)
 
 ---
