@@ -64,7 +64,7 @@ My best ideas start as sketches that accidentally turn into deployments.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-000?style=for-the-badge&logo=opencv)
+
 
 ---
 ## 🚀 Featured Projects
