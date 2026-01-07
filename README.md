@@ -80,7 +80,9 @@ My best ideas start as sketches that accidentally turn into deployments.
 ###  Full-Stack Development 
 **taskflow-app** 
 - **[taskflow-app](https://github.com/Nicklancecypher/taskflow)**
-- React + Node.js productivity manager. 
+- React + Node.js productivity manager.
+
+**frontier bites**
   
 
 
