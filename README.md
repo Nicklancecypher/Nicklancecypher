@@ -67,9 +67,9 @@ My best ideas start as sketches that accidentally turn into deployments.
 
 
 ---
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 AI & Automation  
+###  AI & Automation  
 - **[smart-dashboard-ai]**  
   Real-time AI-powered business intelligence dashboard.  
 
@@ -77,7 +77,7 @@ My best ideas start as sketches that accidentally turn into deployments.
   Remote health monitoring with AI detection and Flask dashboard.  
 
 
-### 🔹 Full-Stack Development 
+###  Full-Stack Development 
 **taskflow-app** 
 - **[taskflow-app](https://github.com/Nicklancecypher/taskflow)**
 - React + Node.js productivity manager. 
