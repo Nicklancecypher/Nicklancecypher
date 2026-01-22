@@ -8,6 +8,7 @@ Founder in progress  where I design and develop **intelligent, secure, and scala
 
 
 <div align="center"> 
+ 
 Building intelligent,secure,and scalable systems for Africa’s digital future. 
 </div> 
 
