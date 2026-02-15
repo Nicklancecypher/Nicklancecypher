@@ -13,7 +13,6 @@ Building intelligent,secure,and scalable systems for Africa’s digital future.
 
 </div> 
 
-
 ###  I’m currently working on  
 - AI-powered dashboards and smart automation tools for business analytics  
 - Secure backend systems integrating machine learning and real-time data visualization  
